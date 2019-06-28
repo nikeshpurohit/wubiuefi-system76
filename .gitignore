@@ -6,3 +6,6 @@ tools/buildtest
 .key
 data/custom-installation/packages
 shim
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/wubiuefi-system76/v16/.suo
